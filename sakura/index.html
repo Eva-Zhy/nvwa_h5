@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black "/>
+    <link rel="stylesheet" type="text/css" href="css/main.css?v=21111119"/>
+    <link rel="stylesheet" type="text/css" href="css/animate.min.css?v=123"/>
+    <title></title>
+    <script src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/layout.js"></script>
+    <script type="text/javascript" src="js/imagesloaded.pkgd.js"></script>
+    <script type="text/javascript" src="js/jquery.transit.js"></script>
+    <script src="https://pj.wkfans.com/wxshare/wxShare.js?v=123"></script>
+    <script>
+        // var _hmt = _hmt || [];
+        // (function () {
+        //     var hm = document.createElement("script");
+        //     hm.src = "https://hm.baidu.com/hm.js?decb423c423def63f8cd16d76162c198";
+        //     var s = document.getElementsByTagName("script")[0];
+        //     s.parentNode.insertBefore(hm, s);
+        // })();
+    </script>
+</head>
+<body>
+<audio src="audio/bg.mp3" id="bg" loop="loop" autoplay="autoplay"></audio>
+<div id="loading">
+    <div id="lding_btn">
+        <div id="showld">
+            <img id="page0_1" src="images/loading/loading0001.png" class="loading-css" style="display: block;">
+            <img id="page0_2" src="images/loading/loading0002.png" class="loading-css" style="display: none;">
+            <img id="page0_3" src="images/loading/loading0003.png" class="loading-css" style="display: none;">
+            <img id="page0_4" src="images/loading/loading0004.png" class="loading-css" style="display: none;">
+            <img id="page0_5" src="images/loading/loading0005.png" class="loading-css" style="display: none;">
+            <img id="page0_6" src="images/loading/loading0006.png" class="loading-css" style="display: none;">
+            <img id="page0_7" src="images/loading/loading0007.png" class="loading-css" style="display: none;">
+            <img id="page0_8" src="images/loading/loading0008.png" class="loading-css" style="display: none;">
+            <img id="page0_9" src="images/loading/loading0009.png" class="loading-css" style="display: none;">
+            <img id="page0_10" src="images/loading/loading0010.png" class="loading-css" style="display: none;">
+            <img id="page0_11" src="images/loading/loading0011.png" class="loading-css" style="display: none;">
+            <img id="page0_12" src="images/loading/loading0012.png" class="loading-css" style="display: none;">
+            <img id="page0_13" src="images/loading/loading0013.png" class="loading-css" style="display: none;">
+            <img id="page0_14" src="images/loading/loading0014.png" class="loading-css" style="display: none;">
+            <img id="page0_15" src="images/loading/loading0015.png" class="loading-css" style="display: none;">
+            <img id="page0_16" src="images/loading/loading0016.png" class="loading-css" style="display: none;">
+            <img id="page0_17" src="images/loading/loading0017.png" class="loading-css" style="display: none;">
+            <img id="page0_18" src="images/loading/loading0018.png" class="loading-css" style="display: none;">
+            <img id="page0_19" src="images/loading/loading0019.png" class="loading-css" style="display: none;">
+            <img id="page0_20" src="images/loading/loading0020.png" class="loading-css" style="display: none;">
+            <img id="page0_21" src="images/loading/loading0021.png" class="loading-css" style="display: none;">
+            <img id="page0_22" src="images/loading/loading0022.png" class="loading-css" style="display: none;">
+            <img id="page0_23" src="images/loading/loading0023.png" class="loading-css" style="display: none;">
+            <img id="page0_24" src="images/loading/loading0024.png" class="loading-css" style="display: none;">
+            <img id="page0_25" src="images/loading/loading0025.png" class="loading-css" style="display: none;">
+            <img id="page0_26" src="images/loading/loading0026.png" class="loading-css" style="display: none;">
+            <img id="page0_27" src="images/loading/loading0027.png" class="loading-css" style="display: none;">
+            <img id="page0_28" src="images/loading/loading0028.png" class="loading-css" style="display: none;">
+            <img id="page0_29" src="images/loading/loading0029.png" class="loading-css" style="display: none;">
+            <img id="page0_30" src="images/loading/loading0030.png" class="loading-css" style="display: none;">
+            <img id="page0_31" src="images/loading/loading0031.png" class="loading-css" style="display: none;">
+            <img id="page0_32" src="images/loading/loading0032.png" class="loading-css" style="display: none;">
+            <img id="page0_33" src="images/loading/loading0033.png" class="loading-css" style="display: none;">
+            <img id="page0_34" src="images/loading/loading0034.png" class="loading-css" style="display: none;">
+            <img id="page0_35" src="images/loading/loading0035.png" class="loading-css" style="display: none;">
+            <img id="page0_36" src="images/loading/loading0036.png" class="loading-css" style="display: none;">
+            <img id="page0_37" src="images/loading/loading0037.png" class="loading-css" style="display: none;">
+            <img id="page0_38" src="images/loading/loading0038.png" class="loading-css" style="display: none;">
+            <img id="page0_39" src="images/loading/loading0039.png" class="loading-css" style="display: none;">
+            <img id="page0_40" src="images/loading/loading0040.png" class="loading-css" style="display: none;">
+            <img id="page0_41" src="images/loading/loading0041.png" class="loading-css" style="display: none;">
+            <img id="page0_42" src="images/loading/loading0042.png" class="loading-css" style="display: none;">
+            <img id="page0_43" src="images/loading/loading0043.png" class="loading-css" style="display: none;">
+            <img id="page0_44" src="images/loading/loading0044.png" class="loading-css" style="display: none;">
+            <img id="page0_45" src="images/loading/loading0045.png" class="loading-css" style="display: none;">
+            <img id="page0_46" src="images/loading/loading0046.png" class="loading-css" style="display: none;">
+            <img id="page0_47" src="images/loading/loading0047.png" class="loading-css" style="display: none;">
+            <img id="page0_48" src="images/loading/loading0048.png" class="loading-css" style="display: none;">
+            <div id="jdt">
+                <div id="jdt-v">
+                </div>
+            </div>
+            <img id="ld_f1" src="images/ld_f1.png"/>
+        </div>
+        <img id="dianji" src="images/dianji.png"/>
+    </div>
+
+</div>
+
+<div id="page1" class="page" style="z-index: 1;">
+</div>
+
+<div id="page2" class="page" style="z-index: 2;">
+</div>
+
+<div id="page3" class="page" style="z-index: 3;">
+</div>
+
+<div id="page4" class="page" style="z-index: 4;">
+</div>
+
+<div id="page5" class="page" style="z-index: 5;">
+</div>
+
+<div id="page6" class="page" style="z-index: 6;">
+</div>
+
+<div id="page7" class="page" style="z-index: 7;">
+</div>
+
+<div id="video_end">
+    <div id="video_bg">
+    </div>
+    <div class="red_line">
+    </div>
+    <img src="" class="text"/>
+
+    <!--</div>-->
+    <img id="jx" src="img/icon/page2_btn2.png">
+    <img id="ko" src="img/icon/page2_btn1.png">
+</div>
+
+<div id="page1_btn">
+    <img class="shou" src="img/icon/shou3.png">
+</div>
+
+<div id="page2_btn">
+    <img class="shou2" src="img/icon/shou3.png">
+    <img class="wcs" src="images/wcs.png">
+</div>
+
+<div id="page3_btn">
+    <img id="yaos1" class="yaos1" src="images/yaos1.png">
+</div>
+
+<div id="page4_btn">
+    <div class="dati1">
+        <img class="dt_bg1" src="images/dt_bg1.png">
+        <img class="dt_f1" src="images/dt_f1.png">
+        <img class="dt_f2" src="images/dt_f2.png">
+        <img class="dt_t1" src="images/dt_t1.png">
+        <img class="dt_t2" src="images/dt_t2.png">
+        <img class="dt_t3" src="images/dt_t3.png">
+    </div>
+    <div class="dati1_err">
+        <img class="dt_err1" src="images/dt_err1.png">
+        <img class="dt_btn1" src="images/dt_btn1.png">
+    </div>
+
+    <img id="yaos2" style="display: none;" class="yaos1" src="images/yaos2.png">
+</div>
+
+<div id="page6_btn">
+    <div class="dati2">
+        <img class="dt_bg1" src="images/dt_bg2.png">
+        <img class="dt_f1" src="images/dt_f2_1.png">
+        <img class="dt_f2" src="images/dt_f2_2.png">
+        <img class="dt_t1_2" src="images/dt_t2_1.png">
+        <img class="dt_t2_2" src="images/dt_t2_2.png">
+        <img class="dt_t3_2" src="images/dt_t2_3.png">
+    </div>
+    <div class="dati2_err">
+        <img class="dt_err2" src="images/dt_err2.png">
+        <img class="dt_btn2" src="images/dt_btn2.png">
+    </div>
+
+    <img id="yaos3" style="display: none;" class="yaos1" src="images/yaos3.png">
+</div>
+
+<div id="page7_btn">
+    <img class="bg" src="images/bg.jpg">
+    <div class="qianmian" style="display:block;">
+        <img class="hecheng" src="images/gec.png">
+        <div class="gaoliang"></div>
+        <img class="hezi" src="images/hezi.png">
+        <img class="shou3" src="img/icon/shou3.png">
+        <img class="lp" src="images/lp1.png">
+        <img class="sb" src="images/sb.png">
+        <img class="bt1" src="images/bt1.png">
+        <div class="huodong">活动规则</div>
+    </div>
+    <div class="huodong_v" style="display:none;">
+        <img class="huodong_img" src="images/gz.png">
+        <img class="bt2" src="images/bt2.png">
+    </div>
+</div>
+
+<div id="end_page">
+    <!--<img id="end_bg" src="img/end_page/bg.jpg">-->
+    <div id="yizhao" style="display: none;">
+
+    </div>
+    <div id="baoming" style="display: none;">
+
+    </div>
+
+    <div id="fenxiang" style="display: none;">
+    </div>
+
+</div>
+
+<script>
+    var clientWidth = document.documentElement.clientWidth;
+    var clientHeight = document.documentElement.clientHeight;
+    var w_h = 0.5;
+
+    var useHeight = clientWidth * 2;
+    if (useHeight > clientHeight) {
+        $(".page").css("height", useHeight + "px");
+        $(".page").css("top", -(useHeight - clientHeight) / 2 + "px");
+
+    }
+
+    var play_num = 0;
+    var imgs = 0;
+    var my_now_page = 1;
+    var bg = document.getElementById("bg");
+
+    $(document).ready(function () {
+        // audioAutoPlay();
+    });
+
+    function audioAutoPlay() {
+        document.addEventListener("WeixinJSBridgeReady", function () {
+            bg.play();
+        });
+        document.addEventListener('YixinJSBridgeReady', function () {
+            bg.play();
+        });
+    }
+
+    // page1
+    add_page_img(1, "kaichang_00", 0, 154, ".jpeg");
+    //    page_ani(1, 173, "", "", "");
+    // page2
+    add_page_img(2, "NVWA_00", 155, 217, ".jpeg");
+    add_page_img(3, "NVWA_00", 218, 278, ".jpeg");
+    add_page_img(4, "niulangzhinv_00", 0, 99, ".jpeg");
+    add_page_img(5, "mengjiangnv_00", 0, 95, ".jpeg");
+    add_page_img(6, "leidichuanyue+xinzhuibeiying00", 691, 756, ".jpeg");
+    add_page_img(7, "jiewei_00", 762, 838, ".jpeg");
+
+    //    page_ani(0, 11, "", 500, "");
+    var li = 0;
+    var page_interval = setInterval(function () {
+        var page_id = '#page' + 0 + '_';
+        var jq_page_id = '#page' + 0;
+        if (li < 49) {
+            $(page_id + li).css('display', 'none');
+        }
+        li++;
+        $(page_id + li).css('display', 'block');
+
+        if (li == 49) {
+            $(page_id + 1).css('display', 'block');
+            li = 0;
+        }
+    }, 50);
+
+    $('.img-css').imagesLoaded().always(function () {
+        $("#jdt-v").css("width", "100%");
+        setTimeout(function () {
+            $("#showld").animate({opacity: 0}, 600, function () {
+                $("#showld").css('display', 'none');
+                clearInterval(page_interval);
+                $("#dianji").css('display', 'block');
+
+                $("#dianji").animate({opacity: 1}, 600, function () {
+
+                    $('#dianji').click(function () {
+                        $('#loading').animate({opacity: 0}, 600, function () {
+                            $("#page1").css('display', 'block');
+                            $('#loading').css('display', 'none');
+                            page_ani(1, 154, "", "", "");
+                        });
+                    });
+
+                })
+            });
+
+        }, 300);
+
+
+    }).progress(function (instance, image) {
+        imgs++;
+        var bfb = GetPercent(imgs, 930);
+        // $("#bfb").text(bfb);
+        $("#jdt-v").css("width", bfb);
+    });
+
+    function GetPercent(num, total) {
+        num = parseFloat(num);
+        total = parseFloat(total);
+        if (isNaN(num) || isNaN(total)) {
+            return "-";
+        }
+        return total <= 0 ? "0%" : (Math.round(num / total * 10000) / 100.00 + "%");
+    }
+
+
+    function add_page_img(page_num, img_head, img_start, img_end, img_suffix) {
+        var add_html = '';
+        var page_id = 'page' + page_num;
+        var i = 1;
+        for (img_start; img_start <= img_end; img_start++) {
+            var img_id = page_id + '_' + i;
+            var img_src = 'images/page' + page_num + '/' + img_head;
+            if (img_start < 10) {
+                img_src = img_src + '00' + img_start + img_suffix;
+            } else if (img_start > 9 && img_start < 100) {
+                img_src = img_src + '0' + img_start + img_suffix;
+            } else if (img_start > 99 && img_start < 1000) {
+                img_src = img_src + '' + img_start + img_suffix;
+            }
+
+            add_html += "<img id='" + img_id + "' src='" + img_src + "' class='img-css'>";
+            i++;
+        }
+        var jq_page_id = "#" + page_id;
+        $(jq_page_id).append(add_html);
+    }
+
+    function page_ani(now_page, img_num, page_title, page_time, sleep_time) {
+        var page_id = '';
+        page_id = '#page' + now_page + '_';
+        var jq_page_id = '#page' + now_page;
+        my_now_page = now_page;
+        if (now_page == 2) {
+            $("#page2").css('display', 'block');
+        } else if (now_page == 3) {
+            $("#page3").css('display', 'block');
+        } else if (now_page == 4) {
+            $("#page4").css('display', 'block');
+        } else if (now_page == 5) {
+            $("#page5").css('display', 'block');
+        } else if (now_page == 6) {
+            $("#page6").css('display', 'block');
+        } else if (now_page == 7) {
+            $("#page7").css('display', 'block');
+        }
+
+        if (page_time == "") {
+            // page_time = 5;
+            page_time = 65;
+        }
+        var i = 0;
+        var page_interval = setInterval(function () {
+            if (i == 0) {
+//                $("title").html(page_title);.
+                $(jq_page_id).css('display', 'block');
+            }
+            if (i != img_num) {
+                $(page_id + i).css('display', 'none');
+            }
+            i++;
+            $(page_id + i).css('display', 'block');
+            if (i > img_num) {
+                clearInterval(page_interval);
+                if (now_page == 1) {
+                    show_page1_btn();
+                } else if (now_page == 2) {
+                    show_page2_btn();
+                } else if (now_page == 3) {
+                    show_page3_btn();
+                } else if (now_page == 4) {
+                    show_page4_btn();
+                } else if (now_page == 5) {
+                    show_page5_btn();
+                } else if (now_page == 6) {
+                    show_page6_btn();
+                } else if (now_page == 7) {
+                    show_page7_btn();
+                }
+            }
+        }, page_time);
+    }
+
+
+    var shouzhi;
+
+    function show_page1_btn() {
+        $("#page1_btn").css("display", "block");
+        $("#page1_btn").animate({opacity: 1}, 1000);
+        $("#page1_btn").click(function () {
+            $("#page1_btn").css("display", "none");
+            page_ani(2, 62, "", "", "");
+            //
+        });
+    }
+
+    function show_page2_btn() {
+        $("#page2_btn").css("display", "block");
+        $("#page2_btn").animate({opacity: 1}, 1000);
+        $(".shou2").css("top", clientHeight - 100 + "px");
+        $(".shou2").css("left", "50px");
+        $(".wcs").css("top", clientHeight - 110 + "px");
+        $(".wcs").css("left", '20px');
+        var click_once = false;
+        $(".wcs").click(function () {
+            if (!click_once) {
+                click_once = true;
+                $(".shou2").animate({opacity: 0}, 500, function () {
+                    $(".wcs").animate({top: '20px', left: clientWidth - 130 + "px"}, 1300, function () {
+                        $(".wcs").animate({opacity: 0}, 500, function () {
+                            page_ani(3, 60, "", "", "");
+                        });
+                    });
+                });
+            }
+        });
+
+        $(".shou2").click(function () {
+            if (!click_once) {
+                click_once = true;
+                $(".shou2").animate({opacity: 0}, 500, function () {
+                    $(".wcs").animate({top: '20px', left: clientWidth - 130 + "px"}, 1300, function () {
+                        $(".wcs").animate({opacity: 0}, 500, function () {
+                            page_ani(3, 60, "", "", "");
+                        });
+                    });
+                });
+            }
+        });
+    }
+
+    function show_page3_btn() {
+        $("#page3_btn").css("display", "block");
+        $("#yaos1").animate({opacity: 1}, 1000, function () {
+            setTimeout(function () {
+                $("#yaos1").animate({opacity: 0}, 1000, function () {
+                    setTimeout(function () {
+                        page_ani(4, 99, "", "", "");
+                    }, 100)
+                });
+            }, 1000)
+        });
+    }
+
+    function show_page4_btn() {
+        $("#page4_btn").css("display", "block");
+        $('.dt_t1').click(function () {
+            $('.dati1').css("display", "none");
+            $('.dati1_err').css("display", "block");
+        });
+        $('.dt_t2').click(function () {
+            $('.dati1').css("display", "none");
+            $('.dati1_err').css("display", "none");
+            $('#yaos2').css("display", "block");
+            $("#yaos2").animate({opacity: 1}, 1000, function () {
+                setTimeout(function () {
+                    $("#yaos2").animate({opacity: 0}, 1000, function () {
+                        setTimeout(function () {
+                            page_ani(5, 94, "", "", "");
+                        }, 100)
+                    });
+                }, 1000)
+            });
+        });
+
+        $('.dt_btn1').click(function () {
+            $('.dati1').css("display", "block");
+            $('.dati1_err').css("display", "none");
+        });
+
+        $('.dt_t3').click(function () {
+            $('.dati1').css("display", "none");
+            $('.dati1_err').css("display", "block");
+        });
+    }
+
+    function show_page5_btn() {
+        page_ani(6, 65, "", "", "");
+    }
+
+
+    function show_page7_btn() {
+        $("#page7_btn").css("display", "block");
+        $(".hecheng").css("display", "block");
+        $(".hecheng").animate({opacity: 1}, 1000, function () {
+        });
+        $(".hecheng").click(function () {
+            $(".gaoliang").css("display", "block");
+            $(".gaoliang").animate({opacity: 1}, 700, function () {
+                $(".hezi").css("display", "block");
+                $(".shou3").css("display", "block");
+                $(".hecheng").css("display", "none");
+                setTimeout(function () {
+                    $(".gaoliang").animate({opacity: 0}, 700, function () {
+                        $(".gaoliang").css("display", "none");
+                        $(".hezi").click(function () {
+                            $(".shou3").css("display", "none");
+                            $(".lp").css("display", "block");
+                            $(".lp").css("display", "block");
+                            $(".lp").animate({opacity: 1}, 1000, function () {
+                                setTimeout(function () {
+                                    $(".lp").attr("src", "images/lp2.png");
+                                    setTimeout(function () {
+                                        $(".lp").attr("src", "images/lp3.png");
+                                        $(".huodong").css("display", "block");
+                                        $(".bt1").css("display", "block");
+
+                                        $(".huodong").animate({opacity: 1}, 800, function () {
+                                        });
+
+                                        $(".bt1").animate({opacity: 1}, 800, function () {
+                                        });
+
+                                        $(".huodong").click(function () {
+                                            $(".qianmian").css("display", "none");
+                                            $(".huodong_v").css("display", "block");
+                                        })
+
+                                        $(".bt2").click(function () {
+                                            $(".qianmian").css("display", "block");
+                                            $(".huodong_v").css("display", "none");
+                                        })
+                                    }, 150)
+                                }, 150)
+                            });
+                        });
+                        $(".shou3").click(function () {
+                            $(".shou3").css("display", "none");
+                            $(".lp").css("display", "block");
+                            $(".lp").css("display", "block");
+                            $(".lp").animate({opacity: 1}, 1000, function () {
+                                setTimeout(function () {
+                                    $(".lp").attr("src", "images/lp2.png");
+                                    setTimeout(function () {
+                                        $(".lp").attr("src", "images/lp3.png");
+                                        $(".huodong").css("display", "block");
+                                        $(".bt1").css("display", "block");
+
+                                        $(".huodong").animate({opacity: 1}, 800, function () {
+                                        });
+
+                                        $(".bt1").animate({opacity: 1}, 800, function () {
+                                        });
+
+                                        $(".huodong").click(function () {
+                                            $(".qianmian").css("display", "none");
+                                            $(".huodong_v").css("display", "block");
+                                        })
+
+                                        $(".bt2").click(function () {
+                                            $(".qianmian").css("display", "block");
+                                            $(".huodong_v").css("display", "none");
+                                        })
+                                    }, 150)
+                                }, 150)
+                            });
+                        });
+                    });
+                }, 200);
+            });
+        })
+    }
+
+    function show_page6_btn() {
+        $("#page6_btn").css("display", "block");
+        $('.dt_t1_2').click(function () {
+            $('.dati2').css("display", "none");
+            $('.dati2_err').css("display", "block");
+        });
+        $('.dt_t2_2').click(function () {
+            $('.dati2').css("display", "none");
+            $('.dati2_err').css("display", "none");
+            $('#yaos3').css("display", "block");
+            $("#yaos3").animate({opacity: 1}, 1000, function () {
+                setTimeout(function () {
+                    $("#yaos3").animate({opacity: 0}, 1000, function () {
+                        setTimeout(function () {
+                            page_ani(7, 76, "", "", "");
+                        }, 100)
+                    });
+                }, 1000)
+            });
+        });
+
+        $('.dt_btn2').click(function () {
+            $('.dati2').css("display", "block");
+            $('.dati2_err').css("display", "none");
+        });
+
+        $('.dt_t3_2').click(function () {
+            $('.dati2').css("display", "none");
+            $('.dati2_err').css("display", "block");
+        });
+    }
+
+    function checkMobile(str) {
+        var re = /^1\d{10}$/;
+        if (re.test(str)) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    function show_video_end(now_page) {
+        if (now_page == 2) {
+            $(".text").attr('src', 'img/icon/font1.png');
+            $(".text").css("width", "21rem");
+        } else if (now_page == 3) {
+            $(".text").attr('src', 'img/icon/font2.png');
+            $(".text").css("width", "19rem");
+        } else if (now_page == 4) {
+            $(".text").attr('src', 'img/icon/font3.png');
+            $(".text").css("width", "32rem");
+        } else if (now_page == 5) {
+            $(".text").attr('src', 'img/icon/font4.png');
+            $(".text").css("width", "27rem");
+        }
+
+        $("#video_end").css("display", "block");
+
+        $("#video_bg").animate({opacity: 0.5}, 1000, function () {
+            $('.red_line').animate({left: '4rem'}, 800);
+            setTimeout(function () {
+                $('.text').animate({left: '3.5rem'}, 800);
+            }, 500);
+
+            if (play_num == 4) {
+                setTimeout(function () {
+                    audio1.pause();
+                    audio2.pause();
+                    audio3.pause();
+                    audio4.pause();
+                    bg.play();
+                    $("#page1").css("display", "none");
+                    $("#page2").css("display", "none");
+                    $("#page3").css("display", "none");
+                    $("#page4").css("display", "none");
+                    $("#page5").css("display", "none");
+                    $("#page1_btn").css("display", "none");
+                    show_end_page();
+                }, 2800);
+            } else {
+                setTimeout(function () {
+                    $('#jx').animate({opacity: 1}, 800, function () {
+                    });
+                }, 1000);
+                setTimeout(function () {
+                    $('#ko').animate({opacity: 1}, 800, function () {
+                    });
+                }, 1300);
+            }
+        });
+    }
+
+    var winHeight = "";
+    $(document).ready(function () {
+        winHeight = document.body.clientHeight + 'px';
+        $("#page1_btn1").click(function () {
+            play_num++;
+            clearInterval(shouzhi);
+            page_ani(2, 176, "", "", "");
+        });
+
+        $("#page1_btn2").click(function () {
+            play_num++;
+            clearInterval(shouzhi);
+            page_ani(3, 233, "", "", "");
+        });
+
+        $("#page1_btn3").click(function () {
+            play_num++;
+            clearInterval(shouzhi);
+            page_ani(4, 172, "", "", "");
+        });
+
+        $("#page1_btn4").click(function () {
+            play_num++;
+            clearInterval(shouzhi);
+            page_ani(5, 177, "", 80, "");
+        });
+
+        $("#jx").click(function () {
+            play_num++;
+
+            $("#page1_btn").css("display", "none");
+            var re_page = random_page(my_now_page);
+            $("#video_end").css("display", "none");
+            $("#video_bg").css("opacity", 0);
+            $('.red_line').css("left", '40rem');
+            $('.text').css("left", '40rem');
+            $('#jx').css("opacity", 0);
+            $('#ko').css("opacity", 0);
+            if (re_page == undefined) {
+                re_page = 5;
+            }
+
+            if (re_page == 2) {
+                page_ani(2, 176, "", "", "");
+            } else if (re_page == 3) {
+                page_ani(3, 233, "", "", "");
+            } else if (re_page == 4) {
+                page_ani(4, 172, "", "", "");
+            } else if (re_page == 5) {
+                page_ani(5, 177, "", 90, "");
+            }
+        });
+
+        $("#ko").click(function () {
+            bg.play();
+            $("#page1").css("display", "none");
+            $("#page2").css("display", "none");
+            $("#page3").css("display", "none");
+            $("#page4").css("display", "none");
+            $("#page5").css("display", "none");
+            $("#page1_btn").css("display", "none");
+            show_end_page();
+        })
+    });
+
+    function random_page(now_page) {
+        if (now_page == 2) {
+            return 3
+        } else if (now_page == 3) {
+            return 4
+        } else if (now_page == 4) {
+            return 5
+        } else if (now_page == 5) {
+            return 2
+        }
+    }
+
+    function saveData(name, phone, message) {
+        $.ajax({
+            type: 'get',
+            url: 'https://www.jwnice.com/jyserver/h5server/public/index.php/sexteen/saveData',
+            data: {
+                name: name,
+                phone: phone,
+                message: message
+            },
+            dataType: 'json',
+            success: function (res) {
+                if (res.code == 200) {
+                    resize();
+                    $("#end_page").scrollTop(0);
+                    $('#baoming').css('display', 'none');
+                    $('#fenxiang').css('display', 'block');
+                    $('.cg').css('display', 'block');
+                } else {
+                }
+            }
+        });
+    }
+
+    function resize() {
+        document.getElementsByTagName('body')[0].style.height = winHeight;
+        $("#end_page").css("height", winHeight);
+        $("#fenxiang").css("height", winHeight);
+        $(window).scrollTop(0);
+        $('body').scrollTop(0);
+        $('html').scrollTop(0);
+        $("#end_page").scrollTop(0);
+    }
+</script>
+<script>
+
+    $(function () {
+        //微信内置浏览器浏览H5页面弹出的键盘遮盖文本框的解决办法
+        window.addEventListener("resize", function () {
+            if (document.activeElement.tagName == "INPUT" || document.activeElement.tagName == "TEXTAREA") {
+                window.setTimeout(function () {
+                    document.activeElement.scrollIntoViewIfNeeded();
+                }, 0);
+            }
+        })
+    });
+
+    window.shareManage.init({
+        title: "无量大侠@你，这厢有礼！",
+        desc: "南涧无量山旅游宣传口号有奖征集中。快来出一招，赢取千元大礼包。",
+        imgUrl: 'https://cdn.pj.wkfans.com/sakura/img/share.jpg',
+        link: window.location.href
+    });
+</script>
+</body>
+</html>

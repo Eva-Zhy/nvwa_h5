@@ -1,0 +1,747 @@
+body, html {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    overflow: hidden;
+    position: absolute;
+}
+
+/*@font-face {*/
+/*font-family: 'SourceHanSansCN';*/
+/*src: url('../font/TTTGB-Medium.ttf');*/
+/*}*/
+
+#fenxiang {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.cg {
+    width: 30rem;
+    height: 30rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: none;
+    transform: translate(-15rem, -15rem);
+}
+
+.img-css {
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.page {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.zi {
+    width: 40rem;
+    position: absolute;
+    top: 10rem;
+    left: 0;
+}
+
+.dax {
+    width: 40rem;
+    position: absolute;
+    bottom: 0;
+    left: -40rem;
+}
+
+.ying {
+    width: 10rem;
+    position: absolute;
+    bottom: 25rem;
+    right: -10rem;
+}
+
+.btn1 {
+    width: 20rem;
+    position: absolute;
+    bottom: -10rem;
+    right: 10rem;
+}
+
+.bmtit {
+    width: 40rem;
+    position: absolute;
+    top: -1rem;
+    right: 0rem;
+}
+
+.mz {
+    width: 5rem;
+    position: absolute;
+    top: 49rem;
+    left: 10rem;
+}
+
+.dh {
+    width: 5rem;
+    position: absolute;
+    top: 53rem;
+    left: 10rem;
+}
+
+.hd {
+    width: 20rem;
+    position: absolute;
+    top: 56.2rem;
+    left: 10rem;
+}
+
+.tj {
+    width: 8rem;
+    position: absolute;
+    top: 60rem;
+    left: 16rem;
+}
+
+.chuyizhao {
+    width: 25rem;
+    height: 5rem;
+    position: absolute;
+    top: 40rem;
+    right: 6.5rem;
+    background-image: url("../img/end_page/i_bg.png");
+    background-size: 100% 100%;
+    padding: 1rem;
+}
+
+.input1 {
+    width: 12rem;
+    height: 1.5rem;
+    position: absolute;
+    top: 48rem;
+    left: 16.5rem;
+    background-image: url("../img/end_page/i_bg2.png");
+    background-size: 100% 100%;
+    padding: 1rem;
+}
+
+.input2 {
+    width: 12rem;
+    height: 1.5rem;
+    position: absolute;
+    top: 52rem;
+    left: 16.5rem;
+    background-image: url("../img/end_page/i_bg2.png");
+    background-size: 100% 100%;
+    padding: 1rem;
+}
+
+.input1 input {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.input2 input {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.chuyizhao textarea {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.note {
+    position: absolute;
+    line-height: 20px;
+    padding: 3px 5px;
+}
+
+.bmtit2 {
+    width: 40rem;
+    position: absolute;
+    top: 33.5rem;
+    right: 0;
+}
+
+.logo {
+    width: 12rem;
+    position: absolute;
+    bottom: -20rem;
+    right: 14rem;
+    opacity: 1;
+}
+
+.t1 {
+    width: 17em;
+    position: absolute;
+    bottom: -18rem;
+    right: 11.5rem;;
+    opacity: 1;
+}
+
+.loading-css {
+    width: 10rem;
+    position: absolute;
+    top: 6rem;
+    left: 13rem;
+}
+
+#bfb {
+    position: absolute;
+    bottom: 10rem;
+    width: 40rem;
+    text-align: center;
+    color: #000;
+    font-size: 3rem;
+}
+
+#ld_f1 {
+    position: absolute;
+    top: 20rem;
+    left: 9rem;
+    width: 18rem;
+}
+#dianji {
+    position: absolute;
+    top: 12rem;
+    left: 9rem;
+    display: none;
+    width: 18rem;
+    opacity: 0;
+}
+
+#start {
+    display: none;
+    width: 15rem;
+    position: absolute;
+    left: 12.5rem;
+    bottom: 8rem;
+    opacity: 0;
+    -webkit-animation-name: ripple; /*动画属性名，也就是我们前面keyframes定义的动画名*/
+    -webkit-animation-duration: 1s; /*动画持续时间*/
+    -webkit-animation-timing-function: ease; /*动画频率，和transition-timing-function是一样的*/
+    -webkit-animation-delay: 0s; /*动画延迟时间*/
+    -webkit-animation-iteration-count: infinite; /*定义循环资料，infinite为无限次*/
+    -webkit-animation-direction: alternate; /*定义动画方式*/
+}
+
+@keyframes ripple {
+    0% {
+        transform: scale(1, 1);
+    }
+    100% {
+        transform: scale(1.2, 1.2);
+    }
+}
+
+
+#loading {
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/loading_bg.jpg");
+    background-size: 100% 100%;
+    position: absolute;
+    z-index: 999;
+}
+
+.bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+.gaoliang{
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    z-index: 99;
+    display: none;
+    background-color: white;
+}
+
+.huodong{
+    width: 14rem;
+    position: absolute;
+    text-align: center;
+    top: 62rem;
+    color: #ffffff;
+    font-size: 2rem;
+    text-decoration:underline;
+    left: 13rem;
+    opacity: 0;
+    display: none;
+}
+
+.bt1 {
+    width: 14rem;
+    position: absolute;
+    top: 52rem;
+    left: 13rem;
+    opacity: 0;
+    display: none;
+}
+
+#lding_btn {
+    width: 36rem;
+    height: 36rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-image: url("../images/ld_bg2.png");
+    background-size: 100% 100%;
+    transform: translate(-18rem,-18rem);
+}
+#jdt {
+    width: 21rem;
+    height: 1.5rem;
+    position: absolute;
+    top: 17.3rem;
+    background-size: 100% 100%;
+    left: 7.5rem;
+    overflow: hidden;
+    border-radius: 10px;
+    background-image: url(../images/jdt1.png);
+}
+
+#jdt-v {
+    width: 0%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+    background-size: 100% 100%;
+    background-image: url(../images/zhongjian.png);
+}
+
+.bt2 {
+    width: 14rem;
+    position: absolute;
+    top: 56rem;
+    left: 13rem;
+    display: block;
+}
+
+.huodong_img {
+    width: 36rem;
+    position: absolute;
+    top: 3rem;
+    left: 2rem;
+    display: block;
+}
+
+.lp {
+    width: 32rem;
+    position: absolute;
+    top: 12rem;
+    left: 4rem;
+    opacity: 0;
+    display: none;
+}
+.sb {
+    width: 34rem;
+    position: absolute;
+    top: 13rem;
+    left: 3rem;
+    display: none;
+}
+
+.hecheng {
+    width: 30rem;
+    position: absolute;
+    opacity: 0;
+    top: 13rem;
+    left: 5rem;
+    display: none;
+}
+
+.hezi {
+    width: 30rem;
+    position: absolute;
+    top: 34rem;
+    left: 5rem;
+    display: none;
+}
+
+
+#end_bg {
+    width: 100%;
+    height: 100%;
+}
+
+.wcs{
+    position: absolute;
+    bottom: 5rem;
+    left: 3rem;
+    width: 12rem;
+}
+
+.page_video {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 90;
+    display: none;
+}
+
+#video_end {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 95;
+    display: none;
+}
+
+#video_bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 91;
+    display: block;
+    background-color: rgb(0, 0, 0);
+    opacity: 0;
+}
+
+#jx {
+    width: 13rem;
+    position: absolute;
+    left: 13.5rem;
+    bottom: 16rem;
+    z-index: 92;
+    opacity: 0;
+}
+
+#ko {
+    width: 13rem;
+    position: absolute;
+    left: 13.5rem;
+    bottom: 8rem;
+    z-index: 92;
+    opacity: 0;
+}
+
+.text {
+    width: 19rem;
+    position: absolute;
+    left: 40rem;
+    top: 15rem;
+    z-index: 93;
+}
+
+.red_line {
+    width: 3.5rem;
+    height: 3px;
+    background-color: #f50000;
+    position: absolute;
+    left: 40rem;
+    top: 13rem;
+    z-index: 92;
+}
+
+#page1_btn {
+    display: none;
+    opacity: 0;
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+}
+
+#page2_btn {
+    display: none;
+    opacity: 0;
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+}
+
+#page3_btn {
+    display: none;
+    opacity: 1;
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+}
+
+#page4_btn {
+    display: none;
+    opacity: 1;
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+}
+
+#page6_btn {
+    display: none;
+    opacity: 1;
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+}
+#page7_btn {
+    display: none;
+    opacity: 1;
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+}
+
+.tt{
+    width: 20rem;
+    position: absolute;
+    left: 10rem;
+    top: 3rem;
+    z-index: 10;
+    opacity: 0;
+}
+.di{
+    width: 40rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    opacity: 0;
+}
+
+.yaos1{
+    width: 28rem;
+    height: 28rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    transform: translate(-14rem,-14rem);
+}
+
+.dt_bg1{
+    width: 38rem;
+    position: absolute;
+    top: 14rem;
+    left: 1rem;
+    opacity: 1;
+}
+
+
+.dt_f1{
+    width: 12rem;
+    position: absolute;
+    top: 20rem;
+    left: 14rem;
+    opacity: 1;
+}
+
+.dt_f2{
+    width: 22rem;
+    position: absolute;
+    top: 22rem;
+    left: 9.5rem;
+    opacity: 1;
+}
+
+
+.dt_t1{
+    width: 12rem;
+    position: absolute;
+    top: 25.5rem;
+    left: 14rem;
+    opacity: 1;
+}
+
+.dt_t2{
+    width: 12rem;
+    position: absolute;
+    top: 29.5rem;
+    left: 14rem;
+    opacity: 1;
+}
+
+.dt_t3{
+    width: 12rem;
+    position: absolute;
+    top: 33.5rem;
+    left: 14rem;
+    opacity: 1;
+}
+
+.dt_t1_2{
+    width: 12rem;
+    position: absolute;
+    top: 25.5rem;
+    left: 14rem;
+    opacity: 1;
+}
+
+.dt_t2_2{
+    width: 12rem;
+    position: absolute;
+    top: 29.5rem;
+    left: 14rem;
+    opacity: 1;
+}
+
+.dt_t3_2{
+    width: 12rem;
+    position: absolute;
+    top: 33.5rem;
+    left: 14rem;
+    opacity: 1;
+}
+
+.dati1_err{
+    display: none;
+}
+.dati2_err{
+    display: none;
+}
+
+.dt_err1{
+    width: 35rem;
+    position: absolute;
+    top: 14rem;
+    left: 3rem;
+    opacity: 1;
+}
+
+.dt_btn1{
+    width: 12rem;
+    position: absolute;
+    top: 34rem;
+    left: 14rem;
+    opacity: 1;
+}
+
+.dt_err2{
+    width: 35rem;
+    position: absolute;
+    top: 14rem;
+    left: 3rem;
+    opacity: 1;
+}
+
+.dt_btn2{
+    width: 12rem;
+    position: absolute;
+    top: 34rem;
+    left: 14rem;
+    opacity: 1;
+}
+
+.shou{
+    width: 5rem;
+    height: 5rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    opacity: 1;
+    transform: translate(-2.5rem,-2.5rem);
+    -webkit-animation-name: ripple; /*动画属性名，也就是我们前面keyframes定义的动画名*/
+    -webkit-animation-duration: 0.5s; /*动画持续时间*/
+    -webkit-animation-timing-function: ease; /*动画频率，和transition-timing-function是一样的*/
+    -webkit-animation-delay: 0s; /*动画延迟时间*/
+    -webkit-animation-iteration-count: infinite; /*定义循环资料，infinite为无限次*/
+    -webkit-animation-direction: alternate; /*定义动画方式*/
+}
+
+.shou2{
+    width: 5rem;
+    height: 5rem;
+    position: absolute;
+    bottom: 6rem;
+    left: 7rem;
+    z-index: 5;
+    opacity: 1;
+    transform: translate(-2.5rem,-2.5rem);
+    -webkit-animation-name: ripple; /*动画属性名，也就是我们前面keyframes定义的动画名*/
+    -webkit-animation-duration: 0.5s; /*动画持续时间*/
+    -webkit-animation-timing-function: ease; /*动画频率，和transition-timing-function是一样的*/
+    -webkit-animation-delay: 0s; /*动画延迟时间*/
+    -webkit-animation-iteration-count: infinite; /*定义循环资料，infinite为无限次*/
+    -webkit-animation-direction: alternate; /*定义动画方式*/
+}
+
+.shou3{
+    width: 5rem;
+    height: 5rem;
+    position: absolute;
+    top: 38rem;
+    left: 19rem;
+    z-index: 5;
+    display: none;
+    opacity: 1;
+    -webkit-animation-name: ripple; /*动画属性名，也就是我们前面keyframes定义的动画名*/
+    -webkit-animation-duration: 0.5s; /*动画持续时间*/
+    -webkit-animation-timing-function: ease; /*动画频率，和transition-timing-function是一样的*/
+    -webkit-animation-delay: 0s; /*动画延迟时间*/
+    -webkit-animation-iteration-count: infinite; /*定义循环资料，infinite为无限次*/
+    -webkit-animation-direction: alternate; /*定义动画方式*/
+}
+
+@keyframes lr {
+    0% {
+        left: 7rem;
+    }
+    100% {
+        left: 5rem;
+    }
+}
+
+
+#page1_btn1 {
+    width: 20rem;
+    position: absolute;
+    left: 10rem;
+    bottom: 25rem;
+    z-index: 10;
+    opacity: 0;
+}
+
+#page1_btn2 {
+    width: 20rem;
+    position: absolute;
+    left: 10rem;
+    bottom: 20rem;
+    z-index: 10;
+    opacity: 0;
+}
+
+#page1_btn3 {
+    width: 20rem;
+    position: absolute;
+    left: 10rem;
+    bottom: 15rem;
+    z-index: 10;
+    opacity: 0;
+}
+
+#page1_btn4 {
+    width: 20rem;
+    position: absolute;
+    left: 10rem;
+    bottom: 10rem;
+    z-index: 10;
+    opacity: 0;
+}
