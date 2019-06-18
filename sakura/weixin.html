@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>微信授权</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+<script src="weixin/outjs/config.js"></script>
+<script src="weixin/outjs/wxUser.js"></script>
+<script>
+    window.gg.wxUser.getWxCode('https://www.jwnice.com/h5/nvwa_h5/index.html?'+window.location.href.split('?')[1]);
+</script>
+</body>
+</html>

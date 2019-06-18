@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>微信授权</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+
+    <!--<link rel="stylesheet/less" href="../less/main.less?v=20160407">-->
+    <!--<script src="http://h5tu.com/js/less.min.js?v=20160407"></script>-->
+</head>
+
+<body>
+<script src="outjs/config.js"></script>
+<script src="outjs/wxUser.js"></script>
+<script>
+    window.gg.wxUser.getWxCode('https://www.jwnice.com/jyh5/wx_login/index.html?'+window.location.href.split('?')[1]);
+</script>
+</body>
+</html>

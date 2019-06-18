@@ -5,6 +5,7 @@ body, html {
     background-color: #000;
     overflow: hidden;
     position: absolute;
+    touch-action: none;
 }
 
 /*@font-face {*/
@@ -109,38 +110,8 @@ body, html {
     left: 16rem;
 }
 
-.chuyizhao {
-    width: 25rem;
-    height: 5rem;
-    position: absolute;
-    top: 40rem;
-    right: 6.5rem;
-    background-image: url("../img/end_page/i_bg.png");
-    background-size: 100% 100%;
-    padding: 1rem;
-}
 
-.input1 {
-    width: 12rem;
-    height: 1.5rem;
-    position: absolute;
-    top: 48rem;
-    left: 16.5rem;
-    background-image: url("../img/end_page/i_bg2.png");
-    background-size: 100% 100%;
-    padding: 1rem;
-}
 
-.input2 {
-    width: 12rem;
-    height: 1.5rem;
-    position: absolute;
-    top: 52rem;
-    left: 16.5rem;
-    background-image: url("../img/end_page/i_bg2.png");
-    background-size: 100% 100%;
-    padding: 1rem;
-}
 
 .input1 input {
     width: 100%;
@@ -190,10 +161,10 @@ body, html {
 }
 
 .loading-css {
-    width: 10rem;
+    width: 14rem;
     position: absolute;
-    top: 6rem;
-    left: 13rem;
+    top: -2rem;
+    left: 10rem;
 }
 
 #bfb {
@@ -205,6 +176,91 @@ body, html {
     font-size: 3rem;
 }
 
+.yao1_1{
+    width: 10rem;
+    position: absolute;
+    bottom: 18rem;
+    opacity: 1;
+    display: none;
+    left: 3rem;
+}
+.gzh_bg{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    left: 0;
+    top: 0;
+    display: none;
+    z-index: 999;
+    position: absolute;
+}
+.sure-v{
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    display: none;
+    z-index: 999;
+    position: absolute;
+}
+
+.czeg-v{
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    display: none;
+    z-index: 999;
+    position: absolute;
+}
+
+.ewm{
+    width: 18rem;
+    height: 18rem;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-9rem,-9rem);
+}
+.sure-ewm{
+    width: 35rem;
+    /* height: 18rem; */
+    top: 19rem;
+    left: 3rem;
+    position: absolute;
+}
+.ewmbt2{
+    width: 14rem;
+    position: absolute;
+    bottom: 10rem;
+    left: 13rem;
+    display: block;
+}
+.sureewmbt2{
+    width: 14rem;
+    position: absolute;
+    bottom: 10rem;
+    left: 13rem;
+    display: block;
+}
+
+.yao1_2{
+    width: 10rem;
+    position: absolute;
+    bottom: 18rem;
+    opacity: 1;
+    display: none;
+    left: 15rem;
+}
+.yao1_3{
+    width: 10rem;
+    position: absolute;
+    bottom: 18rem;
+    opacity: 1;
+    display: none;
+    left: 27rem;
+}
+
 #ld_f1 {
     position: absolute;
     top: 20rem;
@@ -213,11 +269,15 @@ body, html {
 }
 #dianji {
     position: absolute;
-    top: 12rem;
-    left: 9rem;
     display: none;
-    width: 18rem;
     opacity: 0;
+
+    width: 18rem;
+    height: 18rem;
+    top: 50%;
+    left: 50%;
+    background-size: 100% 100%;
+    transform: translate(-9rem,-9rem);
 }
 
 #start {
@@ -244,6 +304,24 @@ body, html {
     }
 }
 
+@keyframes leftright {
+    0% {
+        left: 22.5rem;
+    }
+    25%{
+        left: 14.5rem;
+    }
+    50% {
+        left: 22.5rem;
+    }
+    75% {
+        left: 30.5rem;
+    }
+    100% {
+        left: 22.5rem;
+    }
+}
+
 
 #loading {
     width: 100%;
@@ -260,6 +338,13 @@ body, html {
     position: absolute;
     z-index: -1;
 }
+.bg2 {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: none;
+    z-index: -1;
+}
 
 .gaoliang{
     display: none;
@@ -274,11 +359,11 @@ body, html {
     background-color: white;
 }
 
-.huodong{
+.huodong {
     width: 14rem;
     position: absolute;
     text-align: center;
-    top: 62rem;
+    top: 59rem;
     color: #ffffff;
     font-size: 2rem;
     text-decoration:underline;
@@ -290,10 +375,11 @@ body, html {
 .bt1 {
     width: 14rem;
     position: absolute;
-    top: 52rem;
+    top: 50rem;
     left: 13rem;
     opacity: 0;
     display: none;
+    z-index: 5;
 }
 
 #lding_btn {
@@ -302,7 +388,7 @@ body, html {
     position: absolute;
     top: 50%;
     left: 50%;
-    background-image: url("../images/ld_bg2.png");
+    /*background-image: url("../images/ld_bg2.png");*/
     background-size: 100% 100%;
     transform: translate(-18rem,-18rem);
 }
@@ -330,24 +416,47 @@ body, html {
 .bt2 {
     width: 14rem;
     position: absolute;
-    top: 56rem;
+    top: 55rem;
     left: 13rem;
+    display: block;
+}
+
+.appbt2 {
+    width: 14rem;
+    position: absolute;
+    top: 54rem;
+    left: 3rem;
+    display: block;
+}
+
+.appbt3 {
+    width: 14rem;
+    position: absolute;
+    top: 54rem;
+    left: 23rem;
     display: block;
 }
 
 .huodong_img {
     width: 36rem;
     position: absolute;
-    top: 3rem;
+    top: 1rem;
     left: 2rem;
+    display: block;
+}
+.app_img {
+    width: 28rem;
+    position: absolute;
+    top: 1rem;
+    left: 6rem;
     display: block;
 }
 
 .lp {
-    width: 32rem;
+    width: 34rem;
     position: absolute;
-    top: 12rem;
-    left: 4rem;
+    top: 2rem;
+    left: 3rem;
     opacity: 0;
     display: none;
 }
@@ -360,19 +469,19 @@ body, html {
 }
 
 .hecheng {
-    width: 30rem;
+    width: 12rem;
     position: absolute;
     opacity: 0;
-    top: 13rem;
-    left: 5rem;
+    bottom: 8rem;
+    left: 14rem;
     display: none;
 }
 
 .hezi {
-    width: 30rem;
+    width: 40rem;
     position: absolute;
-    top: 34rem;
-    left: 5rem;
+    top: 20rem;
+    left: 0;
     display: none;
 }
 
@@ -457,6 +566,23 @@ body, html {
     z-index: 92;
 }
 
+.tis1 {
+    width: 21.5rem;
+    position: absolute;
+    top: 55%;
+    left: 12rem;
+    opacity: 1;
+    transform: translate(-2.5rem);;
+}
+
+.tis2 {
+    width: 21.5rem;
+    position: absolute;
+    bottom: 1rem;
+    left: 17rem;
+    opacity: 1;
+}
+
 #page1_btn {
     display: none;
     opacity: 0;
@@ -535,6 +661,23 @@ body, html {
     left: 50%;
     opacity: 0;
     transform: translate(-14rem,-14rem);
+}
+
+.ydjd1{
+    width: 3.8rem;
+    /* height: 28rem; */
+    position: absolute;
+    top: 3rem;
+    left: 1.5rem;
+    opacity: 0;
+}
+.ydjd2{
+    width: 3.8rem;
+    /* height: 28rem; */
+    position: absolute;
+    top: 3rem;
+    left: 1.5rem;
+    opacity: 0;
 }
 
 .dt_bg1{
@@ -655,32 +798,51 @@ body, html {
     height: 5rem;
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 14.5rem;
     opacity: 1;
-    transform: translate(-2.5rem,-2.5rem);
-    -webkit-animation-name: ripple; /*动画属性名，也就是我们前面keyframes定义的动画名*/
-    -webkit-animation-duration: 0.5s; /*动画持续时间*/
+    z-index: 9;
+    transform: translate(-2.5rem);
+    -webkit-animation-name: leftright; /*动画属性名，也就是我们前面keyframes定义的动画名*/
+    -webkit-animation-duration: 3s; /*动画持续时间*/
     -webkit-animation-timing-function: ease; /*动画频率，和transition-timing-function是一样的*/
     -webkit-animation-delay: 0s; /*动画延迟时间*/
     -webkit-animation-iteration-count: infinite; /*定义循环资料，infinite为无限次*/
-    -webkit-animation-direction: alternate; /*定义动画方式*/
+    /*-webkit-animation-direction: alternate; !*定义动画方式*!*/
+}
+
+.wu1{
+    width: 25rem;
+    height: 25rem;
+    position: absolute;
+    top: 44%;
+    left: 39%;
+    opacity: 1;
+    transform: translate(-12.5rem,-12.5rem);
+}
+
+.wu2{
+    width: 25rem;
+    height: 25rem;
+    position: absolute;
+    top: 50%;
+    right: -27%;
+    opacity: 1;
+    transform: translate(-12.5rem,-12.5rem);
 }
 
 .shou2{
     width: 5rem;
-    height: 5rem;
     position: absolute;
     bottom: 6rem;
     left: 7rem;
     z-index: 5;
     opacity: 1;
-    transform: translate(-2.5rem,-2.5rem);
-    -webkit-animation-name: ripple; /*动画属性名，也就是我们前面keyframes定义的动画名*/
-    -webkit-animation-duration: 0.5s; /*动画持续时间*/
-    -webkit-animation-timing-function: ease; /*动画频率，和transition-timing-function是一样的*/
-    -webkit-animation-delay: 0s; /*动画延迟时间*/
-    -webkit-animation-iteration-count: infinite; /*定义循环资料，infinite为无限次*/
-    -webkit-animation-direction: alternate; /*定义动画方式*/
+    /*-webkit-animation-name: ripple; !*动画属性名，也就是我们前面keyframes定义的动画名*!*/
+    /*-webkit-animation-duration: 0.5s; !*动画持续时间*!*/
+    /*-webkit-animation-timing-function: ease; !*动画频率，和transition-timing-function是一样的*!*/
+    /*-webkit-animation-delay: 0s; !*动画延迟时间*!*/
+    /*-webkit-animation-iteration-count: infinite; !*定义循环资料，infinite为无限次*!*/
+    /*-webkit-animation-direction: alternate; !*定义动画方式*!*/
 }
 
 .shou3{
