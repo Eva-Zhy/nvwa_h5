@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>无量口号后台数据</title>
+    <script src="js/jquery.js"></script>
+    <script>
+        $.ajax({
+            type: 'get',
+            url: 'https://www.jwnice.com/jyserver/h5server/public/index.php/sexteen/getall',
+            data: {},
+            dataType: 'json',
+            success: function (res) {
+                var tab_html = "<tr>"
+                    + "<td>姓名</td>"
+                    + "<td>电话</td>"
+                    + "<td>口号</td>"
+                    + "</tr>";
+                for (var i = 0; i < res.length; i++) {
+                    var tab_text = "<tr>" + "<td>" + res[i].name + "</td>" + "<td>" + res[i].phone + "</td>" + "<td>" + res[i].message + "</td></tr>"
+                    tab_html += tab_text;
+                }
+                $("#data").html(tab_html);
+            }
+        });
+    </script>
+</head>
+<body>
+<table id="data" border="1">
+
+</table>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>wxtest</title>
+</head>
+<body>
+    <h1>微信测试</h1>
+</body>
+<script src="http://www.weservices.cn/js/jquery.min.js"></script>
+<script src="http://www.weservices.cn/js/wxShare.js"></script>
+
+
+<script>
+//    var code = getUrlParam('code');
+//    alert(code);
+//    alert(1);
+
+
+    (function ($) {
+        $.getUrlParam = function (name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) return unescape(r[2]); return null;
+        }
+    })(jQuery);
+
+    function getAccessToken(codedata) {
+
+        $.ajax({
+            type:'get',
+            url: "http://www.weservices.cn/wxtest/oauth2/getOpenid.php",
+            data:{
+                code:codedata
+            },
+            dataType:'json',
+            success:function(res){
+                alert(JSON.stringify(res));
+                console.log(res);
+            }
+        });
+    }
+
+    var code = $.getUrlParam('code');
+
+    console.log(code);
+    getAccessToken(code);
+
+    window.shareManage.init({
+        title: "2016年“奥迪杯”体育联赛第一季·台州羽毛球联赛",
+        desc: " “奥迪杯”台州羽毛球联赛，黄金大奖等你来战！",
+        imgUrl: 'http://www.weservices.cn/wxtest/img/wx.jpg',
+        link: window.location.href
+    });
+
+
+</script>
+</html>

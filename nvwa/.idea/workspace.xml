@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b8bbd88-dd6a-4dc4-b39f-57eabcd933b8" name="Default Changelist" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/.idea/sakura.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/audio/1.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/audio/2.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/audio/3.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/audio/4.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/audio/bg.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/css/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/data.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/font/SourceHanSansCN-Light.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/font/TTTGB-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/UIjz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/app.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/bt1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/bt2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/bt3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/cg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/czeg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dianji.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_bg1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_bg2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_btn1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_btn2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_err1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_err2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_f1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_f2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_f2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_f2_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_t1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_t2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_t2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_t2_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_t2_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/dt_t3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/endbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/ewn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/gec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/gz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/gzh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/hhhhc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/jd_t1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/jd_t2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/jdt1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/jdt2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/ld_bg2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/ld_f1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0001.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0002.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0003.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0004.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0006.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0007.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0008.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0009.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0011.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0012.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0013.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0016.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0017.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0018.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0019.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0021.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0022.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0023.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0024.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0025.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0026.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0027.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0028.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0029.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0031.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0032.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0033.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0034.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0035.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0036.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0037.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0038.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0039.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0041.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0042.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0043.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0044.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0045.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0046.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0047.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading/loading0048.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/loading_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/lp1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/lp2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/lp3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/lp4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/lp5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00001.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00002.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00003.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00004.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00006.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00007.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00008.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00009.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00011.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00012.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00013.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00016.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00017.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00018.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00019.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00021.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00022.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00023.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00024.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00025.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00026.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00027.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00028.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00029.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00031.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00032.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00033.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00034.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00035.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00036.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00037.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00038.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00039.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00041.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00042.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00043.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00044.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00045.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00046.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00047.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00048.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00049.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00051.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00052.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00053.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00054.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00055.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00056.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00057.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00058.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00059.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00061.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00062.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00063.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00064.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00065.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00066.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00067.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00068.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00069.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00071.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00072.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00073.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00074.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00075.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00076.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page0/loding_00077.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00000.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00009.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00011.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00012.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00013.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00014.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00015.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00016.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00017.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00018.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00019.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00020.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00021.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00022.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00023.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00025.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00026.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00027.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00028.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00029.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00031.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00032.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00033.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00034.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00035.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00036.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00037.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00038.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00039.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00040.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00041.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00042.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00043.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00044.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00045.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00046.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00047.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00048.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00049.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00050.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00051.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00052.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00053.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00054.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00055.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00056.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00057.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00058.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00059.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00060.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00061.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00062.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00063.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00064.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00065.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00066.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00067.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00068.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00069.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00070.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00071.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00072.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00073.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00074.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00075.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00076.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00077.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00078.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00079.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00080.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00081.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00082.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00083.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00084.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00085.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00086.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00087.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00088.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00089.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00090.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00091.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00092.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00093.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00094.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00095.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00096.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00097.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00098.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00099.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00101.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00102.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00103.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00104.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00105.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00106.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00107.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00108.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00109.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00110.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00111.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00112.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00113.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00114.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00115.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00116.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00117.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00118.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00119.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00120.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00121.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00124.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00125.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00126.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00127.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00128.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00129.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00130.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00131.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00132.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00133.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00134.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00135.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00136.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00137.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00138.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00139.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00140.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00141.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00142.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00143.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00144.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00145.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00146.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00147.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00148.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00149.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00151.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00152.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00153.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00154.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00155.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00156.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page1/kaichang_00157.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00147.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00148.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00149.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00151.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00152.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00153.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00154.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00155.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00156.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00157.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00158.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00159.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00161.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00162.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00163.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00164.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00165.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00166.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00167.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00168.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00169.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00170.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00171.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00172.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00173.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00174.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00175.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00176.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00177.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00178.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00179.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00180.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00181.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00182.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00183.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00184.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00185.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00186.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00187.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00188.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00189.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00190.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00191.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00192.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00193.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00194.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00195.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00196.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00197.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00198.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00199.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00201.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00202.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00203.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00204.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00205.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00206.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00207.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00208.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00209.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00210.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00211.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00212.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00213.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00215.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page2/tongjing+nvwa_00216.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00217.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00218.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00219.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00220.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00221.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00222.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00224.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00225.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00226.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00227.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00229.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00230.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00231.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00232.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00233.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00235.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00236.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00237.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00238.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00239.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00240.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00241.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00242.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00243.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00244.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00245.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00246.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00247.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00248.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00249.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00250.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00252.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00253.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00254.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00255.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00256.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00257.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00258.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00259.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00260.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00261.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00262.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00263.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00264.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00265.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00266.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00267.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00268.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00269.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00270.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00271.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00272.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00273.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00274.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00275.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00276.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00277.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00278.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00279.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00281.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00282.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00283.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00284.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00285.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00286.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00287.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00288.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00289.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00290.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00291.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00292.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00293.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00294.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00295.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00296.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00297.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00298.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00299.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00301.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00302.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00303.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00304.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00305.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00306.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00307.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00308.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00309.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00310.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00312.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00313.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00314.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00315.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00316.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page3/tongjing+nvwa_00317.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00000.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00009.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00011.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00012.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00013.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00014.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00015.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00016.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00017.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00018.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00019.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00020.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00021.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00022.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00023.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00025.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00026.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00027.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00028.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00029.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00031.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00032.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00033.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00034.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00035.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00036.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00037.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00038.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00039.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00040.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00041.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00042.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00043.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00044.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00045.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00046.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00047.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00048.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00049.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00050.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00051.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00052.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00053.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00054.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00055.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00056.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00057.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00058.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00059.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00060.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00061.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00062.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00063.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00064.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00065.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00066.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00067.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00068.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00069.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00070.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00071.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00072.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00073.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00074.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00075.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00076.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00077.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00078.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00079.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00080.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00081.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00082.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00083.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00084.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00085.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00086.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00087.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page4/nvlangzhinv+zhuchaichuanyue_00088.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00089.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00090.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00091.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00092.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00093.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00094.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00095.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00096.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00097.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00098.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00099.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00101.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00102.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00103.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00104.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00105.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00106.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00107.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page5/nvlangzhinv+zhuchaichuanyue_00108.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00000.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00009.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00011.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00012.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00013.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00014.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00015.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00016.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00017.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00018.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00019.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00020.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00021.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00022.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00023.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00025.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00026.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00027.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00028.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00029.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00031.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00032.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00033.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00034.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00035.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00036.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00037.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00038.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00039.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00040.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00041.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00042.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00043.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00044.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00045.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00046.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00047.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00048.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00049.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00050.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00051.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00052.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00053.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00054.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00055.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00056.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00057.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00058.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00059.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00060.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00061.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00062.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00063.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00064.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00065.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00066.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00067.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00068.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00069.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00070.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00071.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00072.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00073.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00074.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00075.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00076.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00077.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00078.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00079.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00080.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00081.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00082.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00083.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00084.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00085.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00086.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00087.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00088.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00089.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00090.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00091.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00092.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00093.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00094.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page7/zhuchai+mengjiangnv_00095.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00691.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00692.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00693.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00694.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00695.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00696.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00697.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00698.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00699.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00700.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00701.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00702.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00703.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00704.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00705.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00706.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00707.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00708.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00709.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00710.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00711.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00712.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00713.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00714.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00715.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00716.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00718.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00719.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00720.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00721.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00722.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00723.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00724.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00725.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00726.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00727.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00728.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00729.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00730.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00731.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00732.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00733.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00734.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00735.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00736.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00737.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00738.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00739.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00740.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00741.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00742.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00743.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00744.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00745.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00746.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00747.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00748.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00749.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00750.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00751.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00752.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00753.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00754.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page8/leidi+xinzhuibeiying_00755.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00762.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00763.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00764.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00765.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00766.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00767.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00769.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00770.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00771.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00772.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00773.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00774.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00775.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00776.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00777.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00778.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00779.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00780.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00781.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00782.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00783.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00784.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00785.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00786.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00787.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00788.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00789.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00790.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00791.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00792.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00793.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00794.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00795.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00796.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00797.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00798.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00799.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00801.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00802.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00803.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00804.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00805.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00806.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00807.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00808.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00809.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00810.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00811.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00812.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00813.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00814.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00815.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00816.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00817.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00818.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00819.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00820.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00821.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00822.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00823.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00824.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00825.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00826.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00827.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00828.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00829.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00830.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00831.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00832.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00833.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00834.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00835.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00836.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00837.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00838.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00839.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00840.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00841.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/page9/jiewei_00842.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/sb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/shou2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/shouzhi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/start.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/sure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/tis1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/tis2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/wcs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/wu1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/wu2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/xiangzi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/xiangzi1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/yaos1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/yaos2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/yaos3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/ydjd1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/ydjd2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/ydjd3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/zhongjian.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/images/zjbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/cg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/di.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/font1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/font2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/font3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/font4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/page1_btn1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/page1_btn2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/page1_btn3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/page1_btn4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/page2_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/page2_btn1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/page2_btn2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/share.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/shou.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/shou2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/shou3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/icon/tt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/img/share.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/js/imagesloaded.pkgd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/js/jquery.transit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/js/layout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/Config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/MysqlClass.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/Util.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/getbonus.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/getuserinfo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/readme/dzpk_bonus.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/readme/dzpk_user_info.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/readme/readme.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/regist_userinfo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/regist_userphone.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/Server/weixin_userinfo/wx_userinfo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/outjs/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/outjs/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/outjs/myShare.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/outjs/pay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/outjs/select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/outjs/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/outjs/wxUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/outjs/xShare.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/outjs/xShare_xm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/sharetest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sakura/weixin/weixin.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sakura/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sakura/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sakura" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14717741">
+              <caret line="628" column="62" selection-start-line="628" selection-start-column="62" selection-end-line="628" selection-end-column="62" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#img#78;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#79;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#14;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#19;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#19;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#7;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#8;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#9;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#10;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#2;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.15625">
+              <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>page</find>
+      <find>page_ani</find>
+      <find>page_ani(2</find>
+      <find>page_ani(3</find>
+      <find>index</find>
+      <find>page_ani(4</find>
+      <find>page_ani(6</find>
+      <find>page_ani(7</find>
+      <find>qianmian</find>
+      <find>yao1_1</find>
+      <find>hecheng</find>
+      <find>click_f</find>
+      <find>lp1</find>
+      <find>hezi</find>
+      <find>ew</find>
+      <find>lp2</find>
+      <find>gzh_bg</find>
+      <find>app_v</find>
+      <find>ewmbt2</find>
+      <find>sure-v</find>
+      <find>page7</find>
+      <find>bg</find>
+      <find>sureewmbt2</find>
+      <find>alert</find>
+      <find>show_page7_btn</find>
+      <find>code</find>
+      <find>openid</find>
+      <find>czeg-v</find>
+      <find>page7_</find>
+      <find>page7_btn</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/weixin/outjs/wxUser.js" />
+        <option value="$PROJECT_DIR$/weixin/outjs/config.js" />
+        <option value="$PROJECT_DIR$/weixin/Server/weixin_userinfo/wx_userinfo.php" />
+        <option value="$PROJECT_DIR$/dome.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/weixin.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="673" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nvwa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nvwa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nvwa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/page6" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/images/page5" />
+      <recent name="$PROJECT_DIR$/images/page4" />
+      <recent name="$PROJECT_DIR$/images/page3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\git\nvwa_h5\sakura\images\page2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b8bbd88-dd6a-4dc4-b39f-57eabcd933b8" name="Default Changelist" comment="" />
+      <created>1560647893240</created>
+      <option name="number" value="Default" />
+      <updated>1560647893240</updated>
+      <workItem from="1560647894947" duration="1819000" />
+      <workItem from="1560679091409" duration="46000" />
+      <workItem from="1560778652299" duration="607000" />
+      <workItem from="1560789141910" duration="362000" />
+      <workItem from="1560817055247" duration="15553000" />
+      <workItem from="1560870931850" duration="4064000" />
+      <workItem from="1560877486498" duration="7620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30071000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1366" height="673" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26245353" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="194" column="18" selection-start-line="194" selection-start-column="18" selection-end-line="194" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#78;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#79;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#14;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#19;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#19;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#7;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#8;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#9;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#10;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#2;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#78;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#79;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#14;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#19;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#19;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#7;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#8;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#9;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#10;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#2;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/outjs/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/sharetest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ld_f1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/page7/zhuchai+mengjiangnv_00009.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/page7/zhuchai+mengjiangnv_00064.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/page7/zhuchai+mengjiangnv_00000.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/dt_btn2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sure.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/share.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/zjbg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/page9/jiewei_00884.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/endbg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/outjs/xShare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/Server/getbonus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6969697">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/outjs/myShare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.5555556">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/outjs/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0925925">
+          <caret line="56" column="56" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/outjs/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.37037">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/outjs/wxUser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2777778">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/Server/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin/Server/weixin_userinfo/wx_userinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.296296">
+          <caret line="32" column="69" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/page0/loding_00000.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/page3/fangte1-2_00153.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/page3/fangte1-2_00172.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/icon/shou3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/icon/shou2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/shouhua.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tis1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/page4/fangte1-2_00173.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/page4/fangte1-2_00267.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/btn1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bt3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bt2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bt1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21367522">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/dt_f1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/dt_t3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52975047">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.15625">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14717741">
+          <caret line="628" column="62" selection-start-line="628" selection-start-column="62" selection-end-line="628" selection-end-column="62" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#78;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#79;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#14;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#19;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#19;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#7;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#8;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#9;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#10;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#2;n#div#0;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
